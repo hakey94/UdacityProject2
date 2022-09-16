@@ -1,9 +1,11 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
-  },
-  "ConnectionStrings": {},
-
-  "AzureWebJobsStorage": ""
-}
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fuchakey;AccountKey=BJ7023FNhusOnmCRBfM3G9ZwcRo7GbckCy1jq67im3JxjvPbxkkSVmDQZBbR9vtqyMYbhqgLgWmm+AStVyfeDg==;EndpointSuffix=core.windows.net",
+  "FUNCTIONS_WORKER_RUNTIME": "python",
+  "FUNCTIONS_EXTENSION_VERSION": "~4",
+  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING":"DefaultEndpointsProtocol=https;AccountName=fuchakey;AccountKey=BJ7023FNhusOnmCRBfM3G9ZwcRo7GbckCy1jq67im3JxjvPbxkkSVmDQZBbR9vtqyMYbhqgLgWmm+AStVyfeDg==;EndpointSuffix=core.windows.net",
+  "WEBSITE_CONTENTSHARE":"fuchakeyacec57",  
+  "MyDbConnection":"mongodb://hakey94:FZUMRoTnkdYmS3tmhbgCRzQorprngPBwG7hwkstndC2Jk3elpRKmSorU5RtxPaccYIOMdb2tNgJSeWFtoDcbpA==@hakey94.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@hakey94@"
+  }
+  }
