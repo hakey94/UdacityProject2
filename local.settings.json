@@ -1,11 +1,10 @@
 {
   "IsEncrypted": false,
   "Values": {
-  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fuchakey;AccountKey=BJ7023FNhusOnmCRBfM3G9ZwcRo7GbckCy1jq67im3JxjvPbxkkSVmDQZBbR9vtqyMYbhqgLgWmm+AStVyfeDg==;EndpointSuffix=core.windows.net",
-  "FUNCTIONS_WORKER_RUNTIME": "python",
-  "FUNCTIONS_EXTENSION_VERSION": "~4",
-  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING":"DefaultEndpointsProtocol=https;AccountName=fuchakey;AccountKey=BJ7023FNhusOnmCRBfM3G9ZwcRo7GbckCy1jq67im3JxjvPbxkkSVmDQZBbR9vtqyMYbhqgLgWmm+AStVyfeDg==;EndpointSuffix=core.windows.net",
-  "WEBSITE_CONTENTSHARE":"fuchakeyacec57",  
-  "MyDbConnection":"mongodb://hakey94:FZUMRoTnkdYmS3tmhbgCRzQorprngPBwG7hwkstndC2Jk3elpRKmSorU5RtxPaccYIOMdb2tNgJSeWFtoDcbpA==@hakey94.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@hakey94@"
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=prj2storage;AccountKey=bnbwooyxTYsSoFdjfiMMabHqY5Eh2472LU2uSTPne4EgR7/uXadtLxI6e8mLd1at02SYZqSEkHRj+ASt644jiQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "MyDbConnection": "mongodb://hakey94:bGnwh6CpMBvGZ6nB5fb8BXfY6FCkD22Dusum0fG4mRAOE3tLAimOhK72bMTVk3L6f9GTC0yYRbR0Rx600SVGlQ==@hakey94.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@hakey94@",
+    "AzureWebJobs.myeventgridtrigger1.Disabled": "true"
   }
-  }
+}
